@@ -1,5 +1,7 @@
 # Video App (Consumer Setup)
-
+<p align="center">
+  <video src="assets/demo.mp4" width="800" controls muted loop></video>
+</p>
 This guide helps you run the app even if you’ve never used Python and don’t know what an API key is.
 
 ## 1) What is a Gemini API key?
